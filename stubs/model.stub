@@ -1,0 +1,17 @@
+<?php
+
+namespace {{ namespace }};
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+use Snowflake\SnowflakeCast;
+use Snowflake\Snowflakes;
+
+class {{ class }} extends Model
+{
+    use HasFactory,Snowflakes;
+
+    protected $casts = [
+                 'id' => SnowflakeCast::class,
+            ];
+}

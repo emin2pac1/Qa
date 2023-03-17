@@ -1,0 +1,9 @@
+- ## Get Started
+    - [Overview](/{{route}}/{{version}}/overview)
+    - [Installation](/{{route}}/{{version}}/installation)
+    - [Create Department](/{{route}}/{{version}}/create-department)
+    - [Change Department Parent](/{{route}}/{{version}}/change-department-parent)
+    - [Create a User](/{{route}}/{{version}}/create-user)
+    - [Change User Department](/{{route}}/{{version}}/change-user-department)
+    - [Create an Issue](/{{route}}/{{version}}/create-issue)
+    - [Edit an Issue](/{{route}}/{{version}}/edit-issue)
