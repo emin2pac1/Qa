@@ -1,3 +1,10 @@
+## Stack
+
+- Laravel
+- VueJS
+- Vuetify
+- InertiaJS
+
 ## Local Dev Setup
 
 * install dependencies
