@@ -5,6 +5,10 @@
 - Vuetify
 - InertiaJS
 
+## Short and Sweet description:
+
+- Basically a shaved-down JIRA-like issue reporting & tracking system
+
 ## Local Dev Setup
 
 * install dependencies
